@@ -1,0 +1,25 @@
+## Visual Studio and .NET Core / .NET 8 gitignore
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Temporary files
+*.tmp
+*~
+*.bak
